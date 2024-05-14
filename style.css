@@ -1,0 +1,72 @@
+.imagem-carrossel {
+    object-fit: cover;
+    object-position: 0 60%;
+    height: 400px;
+}
+
+.fonte-titulo {
+    font-family: "Lobster", sans-serif;
+}
+
+.fonte-dois {
+    font-family: "Merriweather", serifa;
+}
+
+.cor-especial {
+    color: rgb(192, 147, 0);
+}
+
+.botao-cor-especial {
+    background-color: darkred;
+    color: bisque;
+}
+
+.botao-cor-especial:hover {
+    background-color: rgb(219, 16, 16);
+    color: rgb(247, 247, 247);
+}
+
+.borda-cor-especial {
+    border-color: rgb(12, 1, 170);
+}
+
+.card-posicao-imagem {
+    object-fit: cover;
+    height: 200px;
+}
+
+.card-largura {
+
+    max-width: 18rem;
+}
+
+.fundo {
+    background-color: rgb(49, 50, 56);
+}
+
+.funndo {
+    background-color: slategrey;
+}
+
+.tamanho {
+    width: 40px;
+}
+
+.cent {
+    text-align: center;
+    display: inline-block;
+}
+
+
+.cards {
+    padding: 20px;
+    text-align: center;
+}
+
+.g {
+    font-family: "Frank Ruhl Libre", serifa;
+}
+
+h5 {
+    color: aliceblue;
+}
